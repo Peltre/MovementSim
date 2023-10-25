@@ -1,5 +1,6 @@
-# MovementSim
-@Peltre
+# MovementSim @Peltre
+
+
 
 ========================================================
 Movement simulator, emulating a F1 track wtih the user introducing the speed 
